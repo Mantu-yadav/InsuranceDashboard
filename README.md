@@ -99,4 +99,4 @@ The data was imported from **Excel/CSV files**, cleaned using **Power Query**, a
 
 ## 6. 📷 Screenshots / Demo
 
-
+https://github.com/Mantu-yadav/InsuranceDashboard/blob/main/Insurance%20templet.png
