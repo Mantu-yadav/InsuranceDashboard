@@ -99,4 +99,11 @@ The data was imported from **Excel/CSV files**, cleaned using **Power Query**, a
 
 ## 6. 📷 Screenshots / Demo
 
-https://github.com/Mantu-yadav/InsuranceDashboard/blob/main/Insurance%20templet.png
+Show what the dashboard looks like.
+
+- ![Alt text](https://github.com/username/repo/assets/image.png)
+
+Example:
+
+![Dashboard Preview]([https://github.com/username/repo/assets/image.png](https://github.com/Mantu-yadav/InsuranceDashboard/blob/main/Insurance%20templet.png))
+
