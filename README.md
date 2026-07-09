@@ -105,5 +105,5 @@ Show what the dashboard looks like.
 
 Example:
 
-![Dashboard Preview]([https://github.com/username/repo/assets/image.png](https://github.com/Mantu-yadav/InsuranceDashboard/blob/main/Insurance%20templet.png))
+![Dashboard Preview](https://github.com/Mantu-yadav/InsuranceDashboard/blob/main/Insurance%20templet.png)
 
